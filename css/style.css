@@ -1,0 +1,47 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.A{
+    height: 200px;
+    text-align:center;
+    background-color: brown;
+    color: white;
+    font-size: 30px;
+}
+.B{
+    display: flex;
+    height: 340px;
+    
+}
+.C{
+    
+    text-align:center;
+    background-color: goldenrod;
+    color: black;
+    font-size: 20px;
+    width: 25%;
+}
+.D{
+    text-align:center;
+    background-color:grey;
+    color: whitesmoke;
+    font-size: 20px;
+    width: 50%;
+}
+.E{
+    text-align:center;
+    background-color:aquamarine;
+    color: gold;
+    font-size: 20px;
+    width: 25%;
+
+}
+.F{
+    height: 150px;
+    text-align:center;
+    background-color: blueviolet;
+    color: white;
+    font-size: 25px;
+
+}
